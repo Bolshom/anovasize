@@ -1,0 +1,15 @@
+Package: anovasize
+Type: Package
+Title: A package to calculate sample sizes for ANOVA experiments
+Version: 0.1.0
+Author: Natan Freitas Leite
+Maintainer: Natan Freitas Leite <natanfl@hotmail.com>
+Description: A package to calculate sample sizes for ANOVA experiments.
+    It's based on the book "Design and Analysis of Experiments" written by Douglas C. Montgomery.
+    The main function is sample_sizing_anova, that is intended to calculate sample sizes based
+    on single-factor ANOVA experiments.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+URL: http://github.com/Bolshom/anovasize
+BugReports: http://github.com/Bolshom/anovasize
